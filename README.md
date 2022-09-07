@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Display Screen / Window Size
+uses MediaQuery().of(context).size
 
-This project is a starting point for a Flutter application.
+#### Windows
+<img src="./Screenshot1.gif" width=750px />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ANDROID
+<img src="./Screenshot2.png" width=360px />
+<img src="./Screenshot3.png" width=360px />
