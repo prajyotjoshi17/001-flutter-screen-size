@@ -1,6 +1,5 @@
 # screen_size
-
-A new Flutter project.
+["Click Here"](./build/web/index.html) for Demo
 
 ## Display Screen / Window Size
 uses MediaQuery().of(context).size
