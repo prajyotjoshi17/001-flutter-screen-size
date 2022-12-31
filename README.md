@@ -1,5 +1,5 @@
 # screen_size
-["Click Here"](./build/web/index.html) for Demo
+["Click Here"](https://prajyotjoshi17.github.io/001-flutter-screen-size/build/web/#/) for Demo
 
 ## Display Screen / Window Size
 uses MediaQuery().of(context).size
